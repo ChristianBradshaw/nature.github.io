@@ -46,7 +46,7 @@ h6{
 }
 
 .jumbotron{
-  background: url('/resources/img/hero.jpg')center center no-repeat;
+  background: url('resources/img/hero.jpg')center center no-repeat;
   color: white;
   height: 60vh;
   padding-top: 30vh;
@@ -57,7 +57,7 @@ h6{
 }
 
 .tiles{
-  background: url('/resources/img/wherewework.jpeg') center center no-repeat;
+  background: url('resources/img/wherewework.jpeg') center center no-repeat;
   height: 50vh;
 }
 
